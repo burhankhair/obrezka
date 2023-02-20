@@ -1,0 +1,20 @@
+.carousel {
+    position: relative;
+    left: 25%;
+    width: 400px;
+    height: 400px;
+}
+
+.row-item {
+    position: relative;
+    top: 100px;
+}
+
+
+.p-ymal {
+    text-align: center;
+    font-size: x-large;
+    position: relative;
+    top: 10px;
+    font-family: 'Montserrat';
+}

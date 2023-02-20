@@ -1,0 +1,24 @@
+.container-fluid {
+    position: absolute;
+    bottom: 0;
+    background-color: rgb(233, 233, 233);
+    padding-bottom: 1rem;
+    
+  }
+  .foot-title{
+      padding-bottom: 2rem;
+      padding-top:1rem;
+  }
+  
+  
+   .foot-linklist :hover{
+      color: rgb(126, 103, 84);
+  
+  }
+  
+  .socials-logo:hover {
+      
+      -ms-transform: scale(1.5); /* IE 9 */
+      -webkit-transform: scale(1.5); /* Safari 3-8 */
+      transform: scale(110%); 
+    }
